@@ -51,6 +51,9 @@
     "is-ip": "^2.0.0",
     "methods": "^1.1.2",
     "qs": "^6.5.1",
+    "superagent": "^3.8.2"
+  },
+  "peerDependencies": {
     "superagent": "^3.7.0"
   },
   "devDependencies": {
